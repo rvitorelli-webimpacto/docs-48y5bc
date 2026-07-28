@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wgndep.haybaleman.nz/sitemap.xml
